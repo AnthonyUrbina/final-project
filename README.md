@@ -36,12 +36,14 @@ Try the application live at [https://warcardgame.xyz](https://warcardgame.xyz)
 - User flip a card.
 - User can see their opponent's card flip in real time.
 - User can face-off.
+- User can battle
 - User can win a match.
+- User can sign out.
 
 ## Stretch Features
 
-- User can battle.
-- User can sign out.
+- User can view current score.
+- User can choose their avatar
 
 ## Preview
 
