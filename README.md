@@ -43,7 +43,7 @@ Try the application live at [https://warcardgame.xyz](https://warcardgame.xyz)
 ## Stretch Features
 
 - User can view current score.
-- User can choose their avatar
+- User can choose their avatar.
 
 ## Preview
 
